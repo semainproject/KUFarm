@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KUFarm</string>
+
+    <string-array name="soilTypes">
+        <item>ดินเหนียว</item>
+        <item>ดินร่วน</item>
+        <item>ดินทราย</item>
+    </string-array>
+</resources>

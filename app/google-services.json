@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148751954684",
+    "firebase_url": "https://farm-e4623.firebaseio.com",
+    "project_id": "farm-e4623",
+    "storage_bucket": "farm-e4623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148751954684:android:9ad3c97d27de66db",
+        "android_client_info": {
+          "package_name": "com.example.narathorn.kufarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148751954684-bfa73r34upqjgv1k46l2oc5uofhgdpgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narathorn.kufarm",
+            "certificate_hash": "90819e0ca00c9fd276c9a1b64354d0208e3134d6"
+          }
+        },
+        {
+          "client_id": "148751954684-ddts9ov9hg4q8ensqfquebrtqjms9obl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7rjmIIRsiqCoYqzcC_IZU1e8oVo5J24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148751954684-ddts9ov9hg4q8ensqfquebrtqjms9obl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
